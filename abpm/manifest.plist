@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://me.ppapi.cn/DR_OTA/abpm/57*57.png</string>
+					<string>https://me.ppapi.cn/DR_OTA/abpm/57*57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://me.ppapi.cn/DR_OTA/abpm/512*512.png</string>
+					<string>https://me.ppapi.cn/DR_OTA/abpm/512*512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>

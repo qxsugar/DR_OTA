@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/JeminiWong/DR_OTA/master/juniper/57*57.png</string>
+					<string>https://me.ppapi.cn/DR_OTA/juniper/57*57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/JeminiWong/DR_OTA/master/juniper/512*512.png</string>
+					<string>https://me.ppapi.cn/DR_OTA/juniper/512*512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>

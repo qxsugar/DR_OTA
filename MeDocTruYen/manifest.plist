@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/qxsugar/DR_OTA/master/MeDocTruYen/57*57.png</string>
+					<string>https://me.ppapi.cn/DR_OTA/MeDocTruYen/57*57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/qxsugar/DR_OTA/master/MeDocTruYen/512*512.png</string>
+					<string>https://me.ppapi.cn/DR_OTA/DR_OTA/MeDocTruYen/512*512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
